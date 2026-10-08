@@ -4,7 +4,7 @@ A 5-page Power BI dashboard on **2,500 orders (Jan–Dec 2023)** across 14 count
 
 > Project completed as part of my Data Analytics course (Coding Ninjas × IITM Pravartak).
 
-![Sales Analysis](images/01-sales-analysis.png)
+![Sales Analysis](images/01-sales-analysis.jpg)
 
 ## Problem
 - Management could not see **who was missing their 2023 sales target**, by rep, manager or team.
