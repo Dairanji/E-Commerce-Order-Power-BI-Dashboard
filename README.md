@@ -20,10 +20,10 @@ A 5-page Power BI dashboard on **2,500 orders (Jan–Dec 2023)** across 14 count
 | SM Sales Map | Order value by manager and country, with drill-through |
 | SM Sales Matrix | Drill-through page: manager × country sales |
 
-![Sales Targets](images/02-sales-targets.png)
-![Customer Analysis](images/03-customer-analysis.png)
-![SM Sales Map](images/04-sm-sales-map.png)
-![SM Sales Matrix](images/05-sm-sales-matrix.png)
+![Sales Targets](images/02-sales-targets.jpg)
+![Customer Analysis](images/03-customer-analysis.jpg)
+![SM Sales Map](images/04-sm-sales-map.jpg)
+![SM Sales Matrix](images/05-sm-sales-matrix.jpg)
 
 ## Key Findings
 - **Targets missed:** 12.28M sales vs 12.81M target = **95.8% (−4.2%)**. 55 of 92 POCs missed target and 37 beat it.
